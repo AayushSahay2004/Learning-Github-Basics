@@ -1,2 +1,13 @@
 # Learning-Github-Basics
 -For Aayush To learn Github Fundamentals for Working
+
+when we want the status , we use the git status
+to clone the repositry git clone "https://github.com/AayushSahay2004/Learning-Github-Basics.git" then to press enter to go to the folder
+
+then cd to change to that directory
+The computer you are working is the local computer
+Always add then do commit , and then push that to the Remote Computer(That is the Github page)
+
+git add README.md
+git commit -m "Message : 1st time commiting Changes in the readme file of this repo"
+then to reflect it on the github do git push origin main
